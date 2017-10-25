@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<conio.h>
 #include<windows.h>
-struct dat//for date(month and day
+struct dat//for date(month and day)
 {
     int d,m;//d=day,m=month
 };
