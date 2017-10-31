@@ -1,1 +1,1 @@
-# school-billing
+# School-Billing
